@@ -1,0 +1,7 @@
+content   googly                 chrome/content/
+skin      googly   classic/1.0   chrome/skin/
+locale    googly   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://googly/content/ff-overlay.xul
+style chrome://global/content/customizeToolbar.xul chrome://googly/skin/overlay.css
