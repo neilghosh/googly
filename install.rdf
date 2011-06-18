@@ -4,7 +4,7 @@
     <em:id>neil.ghosh@gmail.com</em:id>
     <em:type>2</em:type>
     <em:name>googly</em:name>
-    <em:version>1.02</em:version>
+    <em:version>1.03</em:version>
     <em:creator>Neil Ghosh</em:creator>
     <em:contributor></em:contributor>
     <em:description>Google URL Shortener </em:description>
@@ -14,7 +14,7 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- Firefox -->
         <em:minVersion>3.0</em:minVersion>
-        <em:maxVersion>4.0.*</em:maxVersion>
+        <em:maxVersion>5.*</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>

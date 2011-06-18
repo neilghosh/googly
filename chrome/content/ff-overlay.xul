@@ -14,7 +14,4 @@
     label="&googlyToolbarButton.label;" tooltiptext="&googlyToolbarButton.tooltip;"
     oncommand="googly.onToolbarButtonCommand()"/>
   </toolbarpalette>
-
-
-
 </overlay>
